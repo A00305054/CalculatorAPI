@@ -30,3 +30,4 @@ C:\Users\ankit\source\repos\CalculatorAPI\CalculatorAPI\obj\Debug\net8.0\refint\
 C:\Users\ankit\source\repos\CalculatorAPI\CalculatorAPI\obj\Debug\net8.0\CalculatorAPI.pdb
 C:\Users\ankit\source\repos\CalculatorAPI\CalculatorAPI\obj\Debug\net8.0\CalculatorAPI.genruntimeconfig.cache
 C:\Users\ankit\source\repos\CalculatorAPI\CalculatorAPI\obj\Debug\net8.0\ref\CalculatorAPI.dll
+C:\Users\ankit\source\repos\CalculatorAPI\CalculatorAPI\obj\Debug\net8.0\CalculatorAPI.sourcelink.json
