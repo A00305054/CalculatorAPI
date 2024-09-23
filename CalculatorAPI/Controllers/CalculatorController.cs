@@ -27,7 +27,16 @@ namespace CalculatorAPI.Controllers
             return Ok(a * b);
         }
 
-        
+        // Divide method: Handles a GET request and returns the quotient of two numbers
+        [HttpGet("divide")]
+        public IActionResult Divide([FromQuery] decimal a, [FromQuery] decimal b)
+        {
+            if (b == 0)
+            {
+                return BadRequest("Division by zero is not allowed.");
+            }
+            return Ok(a / b);
+        }
 
         // Modulo method: Handles a GET request and returns the remainder of two numbers
         [HttpGet("modulo")]
